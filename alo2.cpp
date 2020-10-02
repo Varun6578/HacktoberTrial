@@ -6,7 +6,8 @@
 #define INF 0x3f3f3f3f3f3f3f3f
 #define MIN(a,b) (a>b?b:a)
 using namespace std;
-ll GCD(ll,ll);
+
+
 ll t,n,ar[200005],br[200005];
 int main()
 {
